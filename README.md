@@ -3,7 +3,7 @@ Código y pdf del TFM Aprendizaje por refuerzo aplicado a sistemas Multiagente p
 En la carpeta "vídeos" se encuentran los GIFs generados de las distintas ejecuciones de los mejores modelos alcanzados en el trabajo.
 En la carpeta src se encuentra el código de entrenamiento y evaluación desarrollado para el trabajo.
 
-![](https://github.com/victory06/TFM/blob/main/videos/sac\_multiw\_extra.gif)
+![](https://github.com/victory06/TFM/blob/main/videos/sac\_multiw.gif)
 
 El presente trabajo está dirigido al estudio y aplicación de técnicas de aprendizaje por refuerzo a sistemas donde varios agentes cooperan para alcanzar un objetivo. Para ello, se usarán algoritmos propios del aprendizaje por refuerzo en entornos virtuales donde conviven varios agentes. El trabajo se divide esencialmente en dos partes: una introducción teórica de las herramientas utilizadas y una exposición de aplicación, resultados y conclusiones sobre las mismas.
 En concreto, se introducirán los conceptos necesarios sobre aprendizaje por refuerzo y su caso multiagente, así como una explicación de los algoritmos del estado del arte que más adelante se aplicarían a los distintos entornos.
