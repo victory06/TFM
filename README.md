@@ -1,6 +1,8 @@
 # TFM
 Código y pdf del TFM Aprendizaje por refuerzo aplicado a sistemas Multiagente para la VIU.
+
 En la carpeta "vídeos" se encuentran los GIFs generados de las distintas ejecuciones de los mejores modelos alcanzados en el trabajo.
+
 En la carpeta src se encuentra el código de entrenamiento y evaluación desarrollado para el trabajo.
 
 ![](https://github.com/victory06/TFM/blob/main/videos/sac\_multiw.gif)
